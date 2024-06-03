@@ -144,7 +144,7 @@ footer {
   max-width: 100%;
   margin: 0;
   text-align: left;
-  background-color: brown;
+  background-color: rgb(42, 129, 92);
   /* margin: 0;
   padding: 0; */
 }
@@ -449,5 +449,5 @@ button[type="submit"]:hover {
   box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
 }
 .social-media h2 {
-  color: #000;
+  color: #fff;
 }
